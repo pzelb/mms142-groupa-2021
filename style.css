@@ -23,7 +23,6 @@ margin:0px;
 	display:grid;
 	grid-template-columns: 15% 35% 35% 15%;
 	grid-template-rows: 20em auto auto auto;
-	grid-row-gap: 10px;
 	height: auto;
 }
 
@@ -31,6 +30,7 @@ margin:0px;
 	display:grid;
 	grid-template-columns: 15% 35% 35% 15%;
 	grid-template-rows: 20em auto auto auto auto auto auto;
+	width: auto;
 	height: auto;
 }
 
