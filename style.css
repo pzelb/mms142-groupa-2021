@@ -80,7 +80,10 @@ margin:0px;
 a.text:link{
 	font-weight:400;
 	font-size:20px;
-	text-decoration: none;
+	text-decoration: none;	
+	border-left: 10px hidden;
+	padding-left: 10px;
+	margin-bottom: 5px;
 }
 
 a{
@@ -89,7 +92,7 @@ a{
 }
 
 a:hover{
-	color:#B4D2E7;
+	color:#FF91A4;
 }
 
 /*PAGE 2*/
