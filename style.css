@@ -81,6 +81,10 @@ a.text:link{
 	font-weight:400;
 	font-size:20px;
 	text-decoration: none;
+	border-left: 10px hidden;
+	/*padding-left: 10px;
+	margin-bottom: 5px;*/
+	font-size: 18px;
 }
 
 a{
@@ -89,7 +93,7 @@ a{
 }
 
 a:hover{
-	color:#B4D2E7;
+	color:#FF91A4;
 }
 
 /*PAGE 2*/
@@ -99,8 +103,9 @@ a:hover{
 	grid-column-end: 2;
 	grid-row-start: 1;
 	grid-row-end: 7;
-	position: sticky;
-	padding: 100px 20px 70px 20px;
+	position: fixed;
+	width:168px;
+	padding: 50px 20px 70px 20px;
 }
 
 .right{
