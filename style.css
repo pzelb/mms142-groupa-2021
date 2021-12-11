@@ -116,7 +116,8 @@ a:hover{
 	padding: 20px 20px 20px 20px;
 	color: black;
 	border-left: double;
-	font-size: 18px;
+	font-size: 10px;
+	line-height: 1;
 }
 
 .title {
