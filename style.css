@@ -3,7 +3,7 @@
 .body2{font-family: 'Roboto Mono', monospace;}
 
 h1,h2,h3,h4,h5,h6{font-family: 'Teko', sans-serif; font-weight: 500; font-size-adjust: 30px;}
-p,ul{font-family: 'Teko', sans-serif; font-weight: 400; font-size: 20px;}
+p,ul{font-family: 'PT Serif', serif;font-size: 20px;}
 body, html {
 height: auto;
 margin:0px;
